@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Student and Welch p-values match scipy for 300 independent datasets",
+    "BH matches scipy; Holm matches exhaustive closed Bonferroni testing for 100 six-hypothesis families; fixed Bonferroni/Holm reference example matches",
+    "C++ permutation probabilities agree within 0.008 with exhaustive enumeration of 462 partitions",
+    "Bootstrap mean agrees with observed difference within 0.01; studentized draws finite",
+    "Fixed seed reproduces all resampling outputs bit for bit"
+  ],
+  "exact_raw_p": 0.5281385281385281,
+  "sampled_raw_p": 0.5276347236527634,
+  "exact_studentized_p": 0.5238095238095238,
+  "sampled_studentized_p": 0.5228247717522825
+}

@@ -1,0 +1,6 @@
+{
+  "lognormal_heteroscedastic_null_mean": 0,
+  "P_X_less_Y": 0.636240668126157,
+  "quadrature_absolute_error_estimate": 1.4930365262749808e-10,
+  "explanation": "X=2*(L1-E[L])/SD[L]; Y=(L2-E[L])/SD[L]; L1,L2 iid Lognormal(0,1). Equal means do not imply P(X<Y)=0.5."
+}

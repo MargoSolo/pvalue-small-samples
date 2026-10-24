@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "relative_tolerance": 1e-12,
+  "absolute_tolerance": 1e-13,
+  "checks": [
+    "All seven procedures match reference scenario 0",
+    "All seven procedures match reference scenario 15",
+    "All seven procedures match reference scenario 78",
+    "All seven procedures match reference scenario 123",
+    "All 128 multiple-testing rows match the reference",
+    "All 270 selection-bias rows match the reference",
+    "Published-output overwrite protection works"
+  ]
+}

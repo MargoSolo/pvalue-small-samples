@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this repository if you reuse the simulation code or results."
+type: software
+title: "When p-values mislead: simulation of small-sample statistical methods"
+authors:
+  - family-names: "Soloshenko"
+    given-names: "Margarita"
+version: 1.0.0
+date-released: 2026-10-24
+abstract: >-
+  Reproducible comparison of two-sample statistical procedures across 135
+  scenarios and 1.35 million synthetic datasets, with additional experiments
+  on multiplicity and selection by statistical significance.
+keywords:
+  - biostatistics
+  - simulation
+  - small samples
+  - hypothesis testing
+  - bootstrap
+  - reproducibility
+license: MIT
